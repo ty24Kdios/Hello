@@ -11,6 +11,7 @@
 154                        t = a;
 155                        a = b;
 156                        b = t;
+//I have edit on the web
 157                }
 158                d = b - a;
 159                t = floor( d * ( sqrt(5.0) + 1 ) / 2 );
