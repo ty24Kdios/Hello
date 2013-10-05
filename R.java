@@ -1,5 +1,6 @@
 import java.util.*;
 public class R{
+	// i hava comment
 	static <T> void fromArrayToColl(T[] arr, Collection<T> col)
 	{
 		for ( T o: arr)
