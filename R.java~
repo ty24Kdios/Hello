@@ -3,7 +3,6 @@ public class R{
 	// i hava comment
 	static <T> void fromArrayToColl(T[] arr, Collection<T> col)
 	{
-		//this is a test for git updateing in 2013/11/04
 		for ( T o: arr)
 		{
 			col.add(o);
