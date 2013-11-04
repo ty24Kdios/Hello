@@ -9,6 +9,7 @@ public class R{
 			col.add(o);
 		}
 	}
+	// TY did
 	public void test(List<?> c)
 	{
 		for(Object obj : c)
